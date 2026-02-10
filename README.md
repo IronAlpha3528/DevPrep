@@ -1,5 +1,8 @@
 🚀 DevPrep – AI‑Powered Interview Preparation Platform (Project for Thinking Machine, IIIT Pune)
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d4cf30d0-2ba9-4a8b-853d-9e8672b6078f" />
+
+
 DevPrep is an AI‑powered interview practice and readiness platform designed to help students and early‑career job seekers prepare for real‑world technical and HR interviews.
 The platform simulates realistic interview scenarios, evaluates both technical and soft skills, and provides personalized feedback to bridge the gap between academic learning and industry expectations.
 
